@@ -166,7 +166,7 @@ section {
   background-color: var(--accent);
   border: none;
   border-radius: 10rem;
-  padding: 1.5rem 2rem 1.5rem 2rem;
+  padding: 1.5rem 2rem 1.6rem 2.3rem;
   transition: var(--reg);
 }
 .btn:hover {
